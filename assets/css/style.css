@@ -1,0 +1,223 @@
+body {
+    font-family: 'Roboto';
+    background-color: rgb(235, 235, 235);
+}
+
+/* Navbar */
+#Header {
+    background-image: url('../img/Logoo.svg');
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center;
+    height: 50vh;
+    margin-left: 10px;
+}
+
+#pertama {
+    margin-top: 100px;
+    opacity: 1;
+}
+
+#pertama,
+h1 {
+    font-size: 38px;
+    opacity: 1;
+}
+
+#pertama,
+h4,
+h3 {
+    font-size: 30px;
+    opacity: 1;
+}
+
+#kedua {
+    margin-top: 60px;
+    padding: 20px;
+}
+
+/* gambar SVG */
+.gambar {
+    margin-top: 60px;
+}
+
+/* gambar SVG */
+#gambarr {
+    margin-top: -85px;
+}
+
+
+/* LDF */
+#kepala {
+    margin-top: -90px;
+    height: 320vh;
+
+}
+
+#LDF {
+    background-color: #0099ff;
+}
+
+#ldff {
+    margin-top: 130px;
+    font-size: 26px;
+}
+
+#hukum {
+    margin-bottom: 25px;
+    margin-top: 30px;
+}
+
+#pertanian {
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+
+#fisip {
+    margin-bottom: 25px;
+    margin-top: 60px;
+}
+
+#kedokteran {
+    margin-bottom: 46px;
+    margin-top: 84px;
+}
+
+#ekonomi {
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+
+
+/* LDK */
+#LDK {
+    margin-top: 100px;
+}
+
+#LDK,
+h2 {
+    font-size: 30px;
+}
+
+#Rizqon {
+    margin-top: -70px;
+    margin-left: 20px;
+    width: 80%;
+}
+
+
+
+
+@media (min-width: 992px) {
+
+    /* Navbar */
+    #Header {
+        background-image: url('../img/text.svg');
+        background-repeat: no-repeat;
+        background-size: 90%;
+        background-position: center;
+    }
+
+    #pertama {
+        margin-top: 200px;
+        opacity: 1;
+    }
+
+    #pertama,
+    h1 {
+        font-size: 66px;
+        opacity: 1;
+    }
+
+    #pertama,
+    h4,
+    h3 {
+        font-size: 36px;
+        opacity: 1;
+    }
+
+    #kedua {
+        margin-top: 60px;
+        padding: 20px;
+    }
+
+    /* gambar SVG */
+    .gambar {
+        margin-top: 320px;
+    }
+
+    /* gambar SVG */
+    #gambarr {
+        margin-top: -280px;
+    }
+
+    /* LDF */
+    #LDF {
+        margin-top: 100px;
+        background-color: #0099ff;
+        height: 170vh;
+    }
+
+    #LDF,
+    h2 {
+        font-size: 46px;
+        margin-top: -230px;
+    }
+
+    #ldff {
+        margin-top: 200px;
+    }
+
+    #ldf {
+        margin-bottom: 20px;
+        margin-top: 22px;
+    }
+
+    #hukum {
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+
+    #pertanian {
+        margin-bottom: 25px;
+        margin-top: 50px;
+    }
+
+    #fisip {
+        margin-bottom: 25px;
+        margin-top: 60px;
+    }
+
+    #kedokteran {
+        margin-bottom: 46px;
+        margin-top: 84px;
+    }
+
+    #ekonomi {
+        margin-bottom: 25px;
+        margin-top: 50px;
+    }
+
+    /* LDK */
+    #LDK {
+        margin-top: 300px;
+    }
+
+    #Rizqon {
+        margin-top: -200px;
+        margin-left: 20px;
+        width: 40%;
+    }
+
+    #Bendahara {
+        margin-top: 62px;
+    }
+
+    #Kaderisasi {
+        margin-top: 55px;
+    }
+
+    #Akademi {
+        margin-top: 37px;
+    }
+}
